@@ -116,7 +116,7 @@ body {
     top: 1400px;
 }
 
-.yaya {
+.kyc {
     position: absolute;
     left:500px;
     width: 30%;  
@@ -132,7 +132,7 @@ body {
     top: 2090px;
 }
 
-.hasini{
+.hire{
     position: absolute;
     left: 380px;
     /* transform: translateX(-100%) scale(1.4); */
@@ -140,14 +140,14 @@ body {
 
 }
 
-.sana{
+.hire2{
     position: absolute;
     left: 500px;
     /* transform: translateX(-100%) scale(1.4); */
     top: 2550px;
 
 }
-.amit{
+.ques{
     position:relative;
     width:350px;
     height:50px;
@@ -159,48 +159,8 @@ body {
     text-align:center;
 }
 
-/* .Query {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    top: 40000px;
-    width: 990px;
-    height: 500px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-} */
-/* 
-.query .inp_div {
-    margin: 20px;
-}
 
-.query .inp_div input {
-    margin-left: 100px;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    /* border-bottom: 4px solid #8888; */
-    /* outline: none;
-    width: 650px;
-    padding: 5px;
-    font-size: 2em; */
-    /* transition: 0.4s; */
-/* } */
-/* .query .inp_div input:focus {
-    border-bottom: 2px dashed #21829c;
-    transition: 0.4s;
-    outline: 1px solid #21829c;
-    border-radius: 8px;
-    
-}
 
-.query .inp_div label {
-    font-size: 23px;
-    font-weight: 300;
-    color: #21829c;
-} */ 
 .form{
     width: 750px;
     height:350px;
@@ -261,14 +221,14 @@ body {
     transform: translateX(0%) scale(1.0);
     top: 3100px;
 }
-.zzy{
+.cpw{
     position: absolute;
     left:10%;
     /* transform: translateX(-100%) scale(1.4); */
     top: 3100px;
 }
 
-.ppp{
+.ppt{
     position: absolute;
     left:45%;
     font-weight:bold;
