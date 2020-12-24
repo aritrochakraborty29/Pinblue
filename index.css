@@ -80,7 +80,12 @@ body {
     font-size: 1em;
 }
 
+.carsu {
+    
+    border: 3px solid #eef1f6;
+}
 .get_demo .demo_btn{
+    margin-top: 7%;
     width: 30%;
 }
 
