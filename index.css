@@ -89,7 +89,7 @@ body {
     border-radius: 8px;
 }
 
-.afsheen {
+.leads {
     position: absolute;
     left:360px;
     width: 40%;  
@@ -103,9 +103,9 @@ body {
     position: absolute;
     left:170px ;
     width: 80%;  
-    height: 0vh;
+    height: 80%;
     top: 850px; 
-    z-index: 1; 
+    z-index: 15; 
 }
 
 
@@ -237,7 +237,17 @@ body {
 }
 
 .col{
-    background: #eef1f6;
+    margin-bottom: auto;
+    background-color: #eef1f6;
+}
+.last{
+    margin-bottom: auto;
+    background-color: #eef1f6;
+}
+.A1{
+    padding-top: 1.49%;
+    margin-bottom: auto;
+    background-color: #eef1f6;
 }
 
 @media(max-width: 1800px) {
