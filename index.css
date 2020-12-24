@@ -81,8 +81,8 @@ body {
 }
 
 .carsu {
-    
-    border: 3px solid #eef1f6;
+    box-shadow: 0px 0px 10px #888;
+    /* border: 3px solid #eef1f6; */
 }
 .get_demo .demo_btn{
     margin-top: 7%;
